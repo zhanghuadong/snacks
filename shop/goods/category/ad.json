@@ -3,14 +3,14 @@
      "id":1,
      "adspotid":"7d47e233e6016b19",
      "width":640,
-     "height":"1136",
+     "height":1136,
      "type":1
    },
    {
      "id":2,
      "adspotid":"506116b61d991ddb",
      "width":1125,
-     "height":"2436",
+     "height":2436,
      "type":1
    }
 ]
