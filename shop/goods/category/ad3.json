@@ -1,0 +1,53 @@
+{
+	"1": [{
+			"id": 1,
+			"adspotid": "320100",
+			"width": 320,
+			"height": 480,
+			"type": 1
+		},
+	    {
+			"id": 2,
+			"adspotid": "320104",
+			"width": 640,
+			"height": 960,
+			"type": 1
+		},
+		{
+			"id": 3,
+			"adspotid": "320105",
+			"width": 480,
+			"height": 800,
+			"type": 1
+		},
+		{
+			"id": 4,
+			"adspotid": "320100",
+			"width": 640,
+			"height": 1136,
+			"type": 1
+		},
+		{
+			"id": 5,
+			"adspotid": "320104",
+			"width": 1125,
+			"height": 2436,
+			"type": 1
+		}
+	],
+	"2": [{
+			"id": 1,
+			"adspotid": "320104",
+			"width": 644,
+			"height": 322,
+			"type": 1
+		},
+		{
+			"id": 2,
+			"adspotid": "320105",
+			"width": 640,
+			"height": 396,
+			"type": 1
+		}
+	]
+}
